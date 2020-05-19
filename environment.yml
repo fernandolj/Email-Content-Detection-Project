@@ -1,0 +1,7 @@
+name: email-anomaly
+dependencies:
+        - numpy=1.17.2
+        - python=3.7.4
+        - pip=19.2.3
+        - pandas=0.25.1
+        - pyspark=2.4.3
